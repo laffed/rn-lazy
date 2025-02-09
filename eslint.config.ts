@@ -169,11 +169,6 @@ export default [
             message: 'No default React import.',
           },
           {
-            name: 'react-redux',
-            importNames: ['useDispatch'],
-            message: 'Please use useAppDispatch from @hooks/index',
-          },
-          {
             name: 'lodash',
             message: 'Please import [module] from lodash/[module]',
           }
