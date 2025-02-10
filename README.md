@@ -8,9 +8,5 @@ a minimal expo template
 ## usage
 
 ```
-expo init --template @laffed/rn-lazy
-
-or
-
-npx create-expo-app --template @laffed/rn-lazy
+yarn create expo-app --template @laffed/rn-lazy
 ```
